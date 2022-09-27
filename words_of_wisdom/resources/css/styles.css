@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&family=Neucha&display=swap');
+h1.title {
+font-family: 'Tangerine', cursive;
+font-size: 7rem;
+letter-spacing: 1px;
+margin: 20px auto 10px auto;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.list-title {
+    font-family: 'Neucha', cursive;
+    font-size: 2rem;
+}
+
+input.genres-list {
+    margin: 10px;
+    padding-left: 100px;
+    width : 300px;
+}
+
+.random-form {
+    margin-top: 50px;
+}
